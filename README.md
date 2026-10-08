@@ -399,7 +399,7 @@ Automated test mencakup:
 Menjalankan test:
 
 ```powershell
-cd C:\dotnet\OrderManagement.Api.Tests
+masuk ke OrderManagement.Api.Tests
 dotnet test
 ```
 
@@ -416,7 +416,7 @@ Status test saat ini:
 Dari folder API:
 
 ```powershell
-cd C:\dotnet\OrderManagement.Api
+masuk ke OrderManagement.Api
 dotnet watch --launch-profile https
 ```
 
